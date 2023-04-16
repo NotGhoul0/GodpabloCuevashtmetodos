@@ -1,0 +1,15 @@
+C:\Users\EC\source\repos\Hojadetrabajogodpalocuevas\Hojadetrabajogodpalocuevas\bin\Debug\net6.0\Hojadetrabajogodpalocuevas.exe
+C:\Users\EC\source\repos\Hojadetrabajogodpalocuevas\Hojadetrabajogodpalocuevas\bin\Debug\net6.0\Hojadetrabajogodpalocuevas.deps.json
+C:\Users\EC\source\repos\Hojadetrabajogodpalocuevas\Hojadetrabajogodpalocuevas\bin\Debug\net6.0\Hojadetrabajogodpalocuevas.runtimeconfig.json
+C:\Users\EC\source\repos\Hojadetrabajogodpalocuevas\Hojadetrabajogodpalocuevas\bin\Debug\net6.0\Hojadetrabajogodpalocuevas.dll
+C:\Users\EC\source\repos\Hojadetrabajogodpalocuevas\Hojadetrabajogodpalocuevas\bin\Debug\net6.0\Hojadetrabajogodpalocuevas.pdb
+C:\Users\EC\source\repos\Hojadetrabajogodpalocuevas\Hojadetrabajogodpalocuevas\obj\Debug\net6.0\Hojadetrabajogodpalocuevas.csproj.AssemblyReference.cache
+C:\Users\EC\source\repos\Hojadetrabajogodpalocuevas\Hojadetrabajogodpalocuevas\obj\Debug\net6.0\Hojadetrabajogodpalocuevas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EC\source\repos\Hojadetrabajogodpalocuevas\Hojadetrabajogodpalocuevas\obj\Debug\net6.0\Hojadetrabajogodpalocuevas.AssemblyInfoInputs.cache
+C:\Users\EC\source\repos\Hojadetrabajogodpalocuevas\Hojadetrabajogodpalocuevas\obj\Debug\net6.0\Hojadetrabajogodpalocuevas.AssemblyInfo.cs
+C:\Users\EC\source\repos\Hojadetrabajogodpalocuevas\Hojadetrabajogodpalocuevas\obj\Debug\net6.0\Hojadetrabajogodpalocuevas.csproj.CoreCompileInputs.cache
+C:\Users\EC\source\repos\Hojadetrabajogodpalocuevas\Hojadetrabajogodpalocuevas\obj\Debug\net6.0\Hojadetrabajogodpalocuevas.dll
+C:\Users\EC\source\repos\Hojadetrabajogodpalocuevas\Hojadetrabajogodpalocuevas\obj\Debug\net6.0\refint\Hojadetrabajogodpalocuevas.dll
+C:\Users\EC\source\repos\Hojadetrabajogodpalocuevas\Hojadetrabajogodpalocuevas\obj\Debug\net6.0\Hojadetrabajogodpalocuevas.pdb
+C:\Users\EC\source\repos\Hojadetrabajogodpalocuevas\Hojadetrabajogodpalocuevas\obj\Debug\net6.0\Hojadetrabajogodpalocuevas.genruntimeconfig.cache
+C:\Users\EC\source\repos\Hojadetrabajogodpalocuevas\Hojadetrabajogodpalocuevas\obj\Debug\net6.0\ref\Hojadetrabajogodpalocuevas.dll
